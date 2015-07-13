@@ -1,0 +1,7 @@
+{
+  "q1": {"id":1, "question":"What do you like about sport?", "type": "interest"},
+  "q2": {"id":2, "question":"Which actor do you like the most?", "type": "interest"},
+  "q3": {"id":3, "question":"How do you manage to get ride of stress?", "type": "interest"},
+  "q4": {"id":4, "question":"Who do you love the most?", "type": "interest"}
+
+}
